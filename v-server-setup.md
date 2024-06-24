@@ -1,6 +1,8 @@
 # V-Server Setup
 
-## Table of contents
+<details>
+
+<summary>Table of contents</summary>
 
 1. [V-Server Setup](#v-server-setup)
    - [Create SSH Key Locally](#create-ssh-key-locally)
@@ -14,6 +16,7 @@
    - [nginx Setup](#nginx-setup)
 4. [Add GitHub SSH Key on Server](#add-github-ssh-key-on-server)
 
+</details>
 
 ## Create SSH Key Locally
 
